@@ -1,6 +1,6 @@
 package com.artdengun.java.dasar.Percabangan;
 
-public class TernaryOperator {
+public class PercabanganTernaryOperator {
     public static void main(String[] args) {
         int MoneyBack = 80;
 

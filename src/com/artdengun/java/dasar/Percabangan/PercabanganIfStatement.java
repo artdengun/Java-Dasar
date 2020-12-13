@@ -1,6 +1,6 @@
 package com.artdengun.java.dasar.Percabangan;
 
-public class IfStatement {
+public class PercabanganIfStatement {
     public static void main(String[] args) {
         int nilai = 70;
         int absen = 80;

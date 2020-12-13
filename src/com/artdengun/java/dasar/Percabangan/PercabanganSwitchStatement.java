@@ -1,6 +1,6 @@
 package com.artdengun.java.dasar.Percabangan;
 
-public class SwitchStatement {
+public class PercabanganSwitchStatement {
     public static void main(String[] args) {
         var nilai = "B";
 
